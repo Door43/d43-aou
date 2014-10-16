@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aou:home|Door43 (aou)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aou|d43-aou repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aou/archive/master.zip|d43-aou.zip]]
+
+**Recent Changes**
+{{changes>ns = aou}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aou|Ethnologue data]]
+
